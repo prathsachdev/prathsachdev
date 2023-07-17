@@ -2,7 +2,7 @@
 
 <h3 align="left">About Me:</h3>
 <ul>
-    <li>🔭 I am currently working on <a href="https://github.com/prathsachdev/DSA-Problems-in-Java">DSA in Java language</a></li>
+    <li>🔭 I am currently working on <a href="https://github.com/prathsachdev/Leetcode-Problems-in-Java">Leetcode Problems in Java language</a></li>
     <li>📫 How to reach me: You can contact me on <a href="mailto:prathamsachdev26@gmail.com">prathamsachdev26@gmail.com</a></li>
 </ul>
 

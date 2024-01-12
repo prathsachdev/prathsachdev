@@ -3,7 +3,7 @@
 <h3 align="left">About Me:</h3>
 <ul>
     <li>🔭 I am currently working on <a href="https://github.com/prathsachdev/Leetcode-CPP-Java-Solutions">Leetcode Solutions in C++ and Java language</a></li>
-    <li>📫 How to reach me: You can contact me on <a href="mailto:prathamsachdev26@gmail.com">prathamsachdev26@gmail.com</a></li>
+    <li>📫 How to reach me: You can contact me on <a href="mailto:prathamsachdev.work@gmail.com">prathamsachdev.work@gmail.com</a></li>
 </ul>
 
 <h3 align="left">Languages:</h3>

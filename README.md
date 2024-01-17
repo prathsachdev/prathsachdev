@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"/>, I'm Pratham Sachdev</h1>
+<h1 align="center">Hi there 👋, I'm Pratham Sachdev</h1>
 
 <h3 align="left">About Me:</h3>
 <ul>

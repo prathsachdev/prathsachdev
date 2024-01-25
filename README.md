@@ -6,7 +6,7 @@
     <li>📫 How to reach me: You can contact me on <a href="mailto:prathamsachdev.work@gmail.com">prathamsachdev.work@gmail.com</a></li>
 </ul>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and Databases:</h3>
 <p>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
